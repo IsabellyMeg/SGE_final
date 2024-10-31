@@ -1,3 +1,4 @@
+//UsuarioController.js
 const Usuario = require('../models/Usuario');
 const UsuarioDTO = require('../models/dtos/UsuarioDTO');
 const bcrypt = require('bcryptjs');

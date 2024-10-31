@@ -1,3 +1,4 @@
+//CategoriaController.js
 const Categoria = require('../models/Categoria');
 
 exports.createCategoria = async (req, res) => {
